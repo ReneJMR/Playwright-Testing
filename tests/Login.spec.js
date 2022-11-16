@@ -2,7 +2,7 @@
 const { test, expect } = require('@playwright/test');
 
 //Import POM_Login.js from Page_Object_Model folder route
-const {Login} = require('../Page_Object_Model/POM_Login')
+const {Login} = require('../Page_Object_Model/POM_Login');
 
 //Description of the test
 test.describe('Login to Snappt Main Page', () => {
