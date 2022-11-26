@@ -16,6 +16,7 @@ test.describe('Login to Snappt Main Page', () => {
     await logintomainpage.click_login_button();
     await logintomainpage.ExpectedPage();
     await logintomainpage.stop_page_closing();
+    
 
   });
 });
