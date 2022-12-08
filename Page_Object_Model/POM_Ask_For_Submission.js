@@ -32,6 +32,3 @@ exports.Ask_For_Submission = class Ask_For_Submission{
     await this.page.pause();
   }
 }
-
-
-
