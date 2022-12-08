@@ -4,7 +4,7 @@ require('dotenv').config({
     path: `.env`
   })
 
-  //Create a class called Login
+  //Create a class called Search_User
 exports.Search_User = class Search_User{
 
     /**

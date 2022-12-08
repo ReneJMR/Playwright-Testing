@@ -1,6 +1,6 @@
 const { expect } = require("@playwright/test");
 
-//Create a class called Login
+//Create a class called UserName
 exports.UserName = class UserName{
 
   /**
